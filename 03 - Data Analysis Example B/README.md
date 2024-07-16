@@ -1,1 +1,0 @@
-Exercises refering the [data-analysis-example-b](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-analysis-example-b) class from [https://www.freecodecamp.org/learn/data-analysis-with-python](https://www.freecodecamp.org/learn/data-analysis-with-python)
